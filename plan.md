@@ -22,8 +22,5 @@ v4:
 
 ~~ Table:
 
-Users
-id username
-
-Exercises
-userid name speed
+Exercise(ID, title, tempo)
+Session(eID, sessionTempo)
